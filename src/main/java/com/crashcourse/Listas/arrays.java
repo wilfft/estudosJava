@@ -1,4 +1,4 @@
-package exArrays;
+package com.crashcourse.Listas;
 
 public class arrays {
 
