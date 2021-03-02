@@ -1,7 +1,7 @@
-"# estudosJava" 
+ # estudosJava 
  
  
-DIO
+## Repositório para estudos da plataforma DIO
 
 Collections
 ArrayList
